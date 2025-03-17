@@ -1,0 +1,10 @@
+# Abaikan file sistem dan konfigurasi pribadi
+.vscode/
+.android/
+.gitconfig
+.ipython/
+.matplotlib/
+AppData/
+OneDrive/
+NTUSER.*
+
